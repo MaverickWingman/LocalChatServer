@@ -1,3 +1,5 @@
+//A one way server, Server auto responds with fixed in text concatinated with the input received from the client side.
+
 import java.io.*;
 import java.net.*;
 
