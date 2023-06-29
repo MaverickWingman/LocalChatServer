@@ -1,3 +1,5 @@
+//A two way server, Where 2 users can chat with each other dynamically.
+
 import java.io.*;
 import java.net.*;
 
